@@ -1,5 +1,5 @@
 # This workflow will build and test an Angular project
-name: Vang (ViteJS & Angular)
+name: esang
 
 on:
   push:
